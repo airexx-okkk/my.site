@@ -1,0 +1,62 @@
+body{
+	background-color: lightsalmon;
+}
+p{
+	font-size: 50px;
+	color: yellow;
+	background-color: lightskyblue;
+}
+.ex1{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: 700;
+}
+.ex2{
+	font-family: cursive;
+	font-weight: bold;
+  font-variant: small-caps;
+}
+.ex3{
+  font-family: "Rubik Mono One", monospace;
+}
+
+.ex4{
+  font-family: "Rubik", sans-serif;
+}
+
+.ex5{
+  font-family: "Lobster", sans-serif;
+  color: red;
+  background-color: black;
+}
+ .ex6{
+  text-shadow: 0 0 10px red;
+}
+.ex7{
+  text-shadow: 3px -3px darkblue;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+.ex8{
+  text-shadow:
+    1px 1px 2px black,
+    0 0 1em blue,
+    0 0 0.2em blue;
+  color: white;
+  font:
+    2.5em Georgia,
+    serif;
+    background-color: #fff;
+}
+.ex9{
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-underline-position: under ;
+  text-decoration-color: blue;
+  height: 150px;
+
+.fl{
+  font-size: 2em;
+  color: orange;
+  font-family: "Rubik", sans-serif;
+  text-shadow: 5px -5px maroon;
+}

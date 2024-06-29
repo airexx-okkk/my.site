@@ -1,0 +1,21 @@
+h1{
+	font-weight: normal;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+p{
+	text-align: justify;
+	text-indent: 24px;
+	word-spacing: 2px;
+	line-height: 24px;
+}
+.fr{
+	float: right;
+	border: 2px solid lightgray;
+	padding: 2px;
+}
+.fr figcaption{
+	margin: 5px;
+	font-family: sans-serif;
+}

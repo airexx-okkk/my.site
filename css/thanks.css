@@ -1,0 +1,10 @@
+body{
+	background-color: yellow;
+}
+p{
+	color: skyblue;
+	font-size: 200px;
+	text-align: center;
+  font: italic 50px "Fira Sans", serif;
+}
+
